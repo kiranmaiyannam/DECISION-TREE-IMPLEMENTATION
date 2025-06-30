@@ -55,3 +55,7 @@ Visualization
 Showcased how the decision tree splits data based on feature thresholds.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/44369853-c690-4c32-8dd4-3dfaf23c51c8)
+
+![Image](https://github.com/user-attachments/assets/02de9a05-1973-4e54-a3b0-e29d0d4b6f0b)
